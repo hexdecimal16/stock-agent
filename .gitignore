@@ -11,7 +11,9 @@ ENV/
 .pipenv/
 .poetry/
 .env
-*.md
+
+# Markdown files for response
+response.md
 
 # Distribution / packaging
 build/
