@@ -1,0 +1,8 @@
+langgraph
+langchain
+langchain-google-genai
+beautifulsoup4
+requests
+crawl4ai
+dotenv
+fake-useragent
